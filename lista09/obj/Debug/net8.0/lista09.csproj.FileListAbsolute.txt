@@ -1,0 +1,15 @@
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.AssemblyInfoInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.AssemblyInfo.cs
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.csproj.CoreCompileInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.sourcelink.json
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\bin\Debug\net8.0\lista09.exe
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\bin\Debug\net8.0\lista09.deps.json
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\bin\Debug\net8.0\lista09.runtimeconfig.json
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\bin\Debug\net8.0\lista09.dll
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\bin\Debug\net8.0\lista09.pdb
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.dll
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\refint\lista09.dll
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.pdb
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\lista09.genruntimeconfig.cache
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista09\obj\Debug\net8.0\ref\lista09.dll

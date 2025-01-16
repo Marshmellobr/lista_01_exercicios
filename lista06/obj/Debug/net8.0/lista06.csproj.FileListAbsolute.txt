@@ -1,0 +1,15 @@
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\bin\Debug\net8.0\lista06.exe
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\bin\Debug\net8.0\lista06.deps.json
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\bin\Debug\net8.0\lista06.runtimeconfig.json
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\bin\Debug\net8.0\lista06.dll
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\bin\Debug\net8.0\lista06.pdb
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.AssemblyInfoInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.AssemblyInfo.cs
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.csproj.CoreCompileInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.sourcelink.json
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.dll
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\refint\lista06.dll
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.pdb
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\lista06.genruntimeconfig.cache
+C:\Users\joao.vcarvalho7\source\repos\lista_01_exercicios\lista_01_exercicios\lista06\obj\Debug\net8.0\ref\lista06.dll

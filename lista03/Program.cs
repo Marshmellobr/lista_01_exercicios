@@ -1,6 +1,20 @@
 ﻿/* Faixa de valor
  
+Objetivo: Compreender a aplicação das condições para a tomada de decisão. 
+Descrição: Escreva um programa que solicite a nota de um aluno. Se a nota for maior ou igual a 6, o aluno é considerado "Aprovado". Caso contrário, ele está "falhando". Exiba a situação do aluno na tela. 
+Exemplo de saída: "Aluno aprovado." ou "Aluno reprovado".*/
 
-Objetivo: Familiarizar-se com a verificação de intervalos numéricos. 
-Descrição: Crie um programa que verifique se um número inserido pelo usuário está dentro do intervalo de 1 a 100. Use uma condição if para verificar se o número está dentro do intervalo e exiba uma mensagem informando o resultado. 
-Exemplo de saída: "O número está entre 1 e 100." ou "O número não está entre 1 e 100.*/
+Console.WriteLine("Digite a sua nota:");
+float num1 = float.Parse(Console.ReadLine());
+
+if (num1 >= 6)
+{
+    Console.WriteLine(" Vc está Aprovado!!!");
+}
+
+else if (num1 < 6)
+{
+    Console.WriteLine("Vc infelizmente foi reprovado...");
+}
+
+
