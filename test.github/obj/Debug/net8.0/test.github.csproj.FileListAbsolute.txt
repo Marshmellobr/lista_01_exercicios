@@ -1,0 +1,15 @@
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\bin\Debug\net8.0\test.github.exe
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\bin\Debug\net8.0\test.github.deps.json
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\bin\Debug\net8.0\test.github.runtimeconfig.json
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\bin\Debug\net8.0\test.github.dll
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\bin\Debug\net8.0\test.github.pdb
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.AssemblyInfoInputs.cache
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.AssemblyInfo.cs
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.csproj.CoreCompileInputs.cache
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.sourcelink.json
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.dll
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\refint\test.github.dll
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.pdb
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\test.github.genruntimeconfig.cache
+C:\Users\joao.vcarvalho7\Documents\lista_01_exercicios\test.github\obj\Debug\net8.0\ref\test.github.dll

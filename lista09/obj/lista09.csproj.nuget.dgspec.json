@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joao.vcarvalho7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista09\\lista09.csproj": {}
+    "C:\\Users\\joao.vcarvalho7\\Documents\\lista_01_exercicios\\lista09\\lista09.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joao.vcarvalho7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista09\\lista09.csproj": {
+    "C:\\Users\\joao.vcarvalho7\\Documents\\lista_01_exercicios\\lista09\\lista09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joao.vcarvalho7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista09\\lista09.csproj",
+        "projectUniqueName": "C:\\Users\\joao.vcarvalho7\\Documents\\lista_01_exercicios\\lista09\\lista09.csproj",
         "projectName": "lista09",
-        "projectPath": "C:\\Users\\joao.vcarvalho7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista09\\lista09.csproj",
+        "projectPath": "C:\\Users\\joao.vcarvalho7\\Documents\\lista_01_exercicios\\lista09\\lista09.csproj",
         "packagesPath": "C:\\Users\\joao.vcarvalho7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joao.vcarvalho7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista09\\obj\\",
+        "outputPath": "C:\\Users\\joao.vcarvalho7\\Documents\\lista_01_exercicios\\lista09\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
